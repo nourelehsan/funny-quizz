@@ -28,3 +28,9 @@ const wrapper = document.querySelector('.wrapper');
     noBtn.style.top = randomY + "px";
 
    });
+noBtn.addEventListener('click', ()=>{
+
+    question.innerHTML = "EXCUSE ME???"
+    image.src =
+    "https://i.cbc.ca/1.5359228.1577206958!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_940/smudge-the-viral-cat.jpg"
+   });
